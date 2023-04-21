@@ -1,0 +1,12 @@
+a=int(input("Enter the value of a: "))
+b=int(input("Enter the value of b: "))
+add=a+b
+sub=a-b
+mul=a*b
+div=a/b
+mod=a%b
+print("Sum of a and b: ",add)
+print("Subtraction of a and b: ",sub)
+print("Multiplication of a and b: ",mul)
+print("Division of a and b: ",div)
+print("Modulus of a and b: ",mod)
